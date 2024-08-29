@@ -1,0 +1,5 @@
+.login_body{
+    background: radial-gradient(circle, rgba(231,71,251,1) 0%, rgba(255,190,236,1) 27%, rgba(255,174,252,1) 59%, rgba(0,212,255,1) 100%);
+
+    background-size: cover;
+}
